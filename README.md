@@ -1,7 +1,7 @@
 
 # Uber Data 🚘
 
-A brief description of what this project does and who it's for
+The Uber Dataset had data consisting of the date, time, longitude, latitude, and base of uber rides during the month of April, May, June, July, August, and September. In this project I have analyzed the data and answered questions relating to the number of trips every month, day, hour, and more. 
 
 
 ## Library📚
